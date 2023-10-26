@@ -1,5 +1,6 @@
 ### Olá! Eu sou Eliel Lucas 👋
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-lucas-trajano-neto-a1410a281/)
+![Elielltn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elielltn&show_icons=true&theme=radical)
 <!--
 **Elielltn/Elielltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
