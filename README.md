@@ -5,7 +5,7 @@
 ![Elielltn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elielltn&show_icons=true&theme=radical)
 
 
-## Tecnologias que utilizo
+## Tecnologias que utilizo:
 
 
 <div style="display: inline-block"><br/>
